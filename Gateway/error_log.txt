@@ -1,0 +1,4 @@
+ERROR:root:2023-11-05 00:51:27.013575 - Failed to process data: a bytes-like object is required, not 'str'
+ERROR:root:2023-11-05 00:52:50.856809 - Failed to process data: a bytes-like object is required, not 'str'
+ERROR:root:2023-11-05 00:54:22.993823 - Failed to process data: a bytes-like object is required, not 'str'
+ERROR:root:2023-11-05 02:19:25.429826 - Failed to process data: payload must be a string, bytearray, int, float or None.
