@@ -1,1 +1,5 @@
-# DE231-SmartFarmMain
+![Fig. 1](./Img/h1.png)
+![Fig. 2](./Img/h2.png)
+![Fig. 3](./Img/h3.png)
+![Fig. 4](./Img/h4.png)
+![Fig. 5](./Img/h5.png)
